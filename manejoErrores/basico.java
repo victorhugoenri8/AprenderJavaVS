@@ -12,7 +12,6 @@ public class basico {
         } catch (Exception e) {
             // TODO: handle exception
             System.out.println("lana el errore..." );
-            e.getMessage("el otro mensaje");
         }
         System.out.println("final");
     }
